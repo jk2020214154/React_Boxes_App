@@ -1,3 +1,25 @@
+# 效果展示
+
+* [github链接](https://github.com/jk2020214154/React_Boxes_App) 
+* [acgit链接](https://git.acwing.com/jk20214154/react_boxes_app)
+
+
+> 功能实现：
+> 可通过**左按钮**实现左移$2$格单位,**右按钮**实现右移$3$格单位;
+> 当数字为$0$时为浅蓝色,数字为$10$时为浅灰色,数字为$30$时为浅黄色，其他数字为紫色
+> 按删除按钮可删除当前盒子,按重置按钮可将数字置为$0$
+> `NavBar`中统计下面盒子中的非$0$的个数
+
+![QQ图片20230104193634.png](https://cdn.acwing.com/media/article/image/2023/01/04/85276_0fe022138c-QQ图片20230104193634.png) 
+- - -
+![QQ截图20230104193717.png](https://cdn.acwing.com/media/article/image/2023/01/04/85276_2a060add8c-QQ截图20230104193717.png) 
+- - -
+![QQ图片20230104193746.png](https://cdn.acwing.com/media/article/image/2023/01/04/85276_3df0e8b98c-QQ图片20230104193746.png)
+
+- - -
+![QQ图片20230104193812.png](https://cdn.acwing.com/media/article/image/2023/01/04/85276_49bda5108c-QQ图片20230104193812.png) 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
