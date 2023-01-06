@@ -1,7 +1,7 @@
 # 效果展示
 
 * [github链接](https://github.com/jk2020214154/React_Boxes_App) 
-* [acgit链接](https://git.acwing.com/jk20214154/react_boxes_app)
+* [acgit链接](https://git.acwing.com/jk20214154/web_class/-/tree/master/5.2react_boxes_app)
 
 
 > 功能实现：
